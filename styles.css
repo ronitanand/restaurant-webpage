@@ -107,12 +107,18 @@ margin: 0 14px;
     text-align: center;
     margin-top: 60px;
     width: fit-content;
-    padding: 10px;
-    
+    padding: 14px;
+    font-size: 18px;
     border-radius: 10px;
     background-color: #ffffff;
+    
 }
 
+.home-blogs:hover{
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #12a84e;
+}
 /* blog 1  */
 
 .blog1{
@@ -189,6 +195,11 @@ padding: 10px;
 font-size: 16px;
 }
 
+.read-more:hover{
+    color: #ffffff;
+    background-color: #12a84e;
+    cursor: pointer;
+}
 /* blog 2 */
 
 .blog2{
@@ -263,6 +274,13 @@ padding: 10px;
 font-size: 16px;
 background: #12a84e;
 color: #ffffff;
+cursor: pointer;
+}
+
+.read-more2:hover{
+    background-color: #ffffff;
+    color: #12a84e;
+    border: 2px solid #12a84e;
 }
 
 
