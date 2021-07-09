@@ -46,6 +46,9 @@
 margin: 0 14px;
 }
 
+hr{
+    border: 1px dashed #ffffff;
+}
 .bottom-menu{
     display: flex;
     flex-flow: row nowrap;
