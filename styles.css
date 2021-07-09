@@ -106,7 +106,7 @@ margin: 0 14px;
     font-size: 18px;
     text-align: center;
     margin-top: 60px;
-    width: fit-content;
+    width: max-content;
     padding: 14px;
     font-size: 18px;
     border-radius: 10px;
@@ -187,7 +187,7 @@ color: black;
 .read-more{
 color: black;
 margin-top:26px ;
-width: fit-content;
+width: max-content;
 color: #12a84e;
 border: 2px solid #12a84e;
 text-align: center;
@@ -268,7 +268,7 @@ color: black;
 .read-more2{
 color: black;
 margin-top:26px ;
-width: fit-content;
+width: max-content;
 text-align: center;
 padding: 10px;
 font-size: 16px;
@@ -301,7 +301,7 @@ cursor: pointer;
     list-style: none;
     display: flex;
     flex-flow: row nowrap;
-    width: fit-content;
+    width: max-content;
     justify-content: flex-start;
 
 }
@@ -398,7 +398,7 @@ margin-right: 50px;
 
 .newsletter div{
     background: #12a84e;
-    width: fit-content;
+    width: max-content;
     margin-top: 18px;
     padding: 10px 81px;
     text-align: center;
